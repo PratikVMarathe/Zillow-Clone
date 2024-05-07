@@ -7,7 +7,7 @@ Rentals in San Francisco
 Welcome to my coding laboratory! 🔬 Here, I blend magic with code to create digital wonders. 🌟
 
 #### Explore My Work:
-🚀 Check out my portfolio site: [The Alchemist Coder](https://pratik-marathe-portfolio.netlify.app/)
+🚀 Check out my portfolio site: [The Alchemist Coder](https://pratik-marathe-portfolio.netlify.app/)🔮👨🏻‍💻
 
 🌍 My mission is to craft innovative solutions that make a difference in people's lives.
 
